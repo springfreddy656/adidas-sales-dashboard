@@ -89,7 +89,8 @@ To interact with the dashboard:
 ---
 ##  Dashboard PDF
 
-See the `Addias Visuals.pdf` — an exported Power BI file that captures all dashboard pages:
+See the [📄 Addias Visuals.pdf](Addias%20Visuals.pdf) — an exported Power BI file that captures all dashboard pages:
+
 * Home
 * Product Page
 * Deep Insight
