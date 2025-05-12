@@ -107,11 +107,11 @@ The original dataset used for this dashboard is included in this repo:
 
 ## 📁 Folder Structure
 
-📁 Project Root
 ├── 📄 Addias Visuals.pdf         → Exported Power BI dashboard in PDF format
 ├── 📄 Adidas US Datasets.xlsx    → Sales dataset used
 ├── 📄 Deep Insights.md           → Full insight report and business analysis
 ├── 📄 README.md                  → Project documentation
+
 ---
 
 ## 👤 Author
