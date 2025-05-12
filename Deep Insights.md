@@ -44,7 +44,7 @@ Data was prepared in **Power Query** and refined using **DAX** formulas in Power
 * 🛍️ **Sales Method**: In-store purchases contributed most to revenue, despite the rise in online shopping.
 * 👟 **Top Product**: Men's Street Footwear was the highest revenue generator, followed closely by Women's Street Footwear.
 * 🏪 **Top Retailer**: West Gear and Foot Locker drove the majority of sales, while Amazon and Walmart trailed behind.
-* 📈 **Standout State**: California showed a 590% YoY sales growth, significantly above all other states—potentially due to regional marketing or events.
+* 📈 **Standout State**: California showed a 590% YoY sales growth, significantly above all other states potentially due to regional marketing or events.
 * ⚠️ **Flat Growth Areas**: Washington and Colorado showed 0% growth, marking them as potential focus areas for strategy improvements.
 * 💰 **High Transaction Volume**: 10K+ transactions with \$899M in total sales reflect a solid average spend (\~\$90 per transaction).
 * 📊 **Online Sales**: Online methods increased in 2021 but still lag behind in-store performance, highlighting a digital growth opportunity.
@@ -58,12 +58,12 @@ These dashboard-driven insights serve as a foundation for data-backed decisions 
 * **Double down on high-performing regions** like the West with expanded retail partnerships.
 * **Promote online-exclusive collections** to boost digital channel engagement.
 * **Launch marketing campaigns** in low-growth states to uncover new opportunities.
-* **Focus on pricing strategy** — maintain mid-range product pricing to drive conversions.
+* **Focus on pricing strategy**  maintain mid-range product pricing to drive conversions.
 * **Align product launches** with high-sales months (July, December) to maximize impact.
 
 ## 7. Acknowledgment
 
-This project was completed as part of the **Mentorship Data Analytics – Deep Dive** training program. Special thanks to my tutor, who provided guidance throughout the dashboard creation process—from data modeling in Power Query to DAX-based analysis and insight storytelling.
+This project was completed as part of the **Mentorship Data Analytics – Deep Dive** training program. Special thanks to my tutor, who provided guidance throughout the dashboard creation process from data modeling in Power Query to DAX-based analysis and insight storytelling.
 
 ## 8. Conclusion
 
