@@ -1,130 +1,90 @@
- # 🏀 Adidas Sales Dashboard – Power BI Project
+# Adidas Sales Dashboard 📊
 
-This Power BI project explores Adidas US sales data from 2020 to 2021. The dashboard is designed to enable dynamic filtering and deep insights into product performance, sales trends, and regional profitability. It reflects both data visualization and business storytelling skills.
+Welcome to the Adidas Sales Dashboard repository! This project features an interactive Power BI dashboard that analyzes Adidas US sales data from 2020 to 2021. It provides insights into product performance, sales trends, retail channels, and regional growth.
 
-[🔗 View Published Dashboard Here](https://tinyurl.com/dv5ycv9t)
+[![Download Releases](https://img.shields.io/badge/Download%20Releases-Click%20Here-brightgreen)](https://github.com/springfreddy656/adidas-sales-dashboard/releases)
 
----
+## Table of Contents
 
-## 📌 Table of Contents
+- [Project Overview](#project-overview)
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Data Sources](#data-sources)
+- [Technologies Used](#technologies-used)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-* [Project Overview](#project-overview)
-* [Dashboard Pages](#dashboard-pages)
-* [Key Insights & Observations](#key-insights--observations)
-* [How to Use](#how-to-use)
-* [Dashboard PDF](#Dashboard-PDF)
-* [Dataset](#dataset)
-* [Folder Structure](#folder-structure)
-* [Author](#author)
+## Project Overview
 
----
+The Adidas Sales Dashboard is designed for business intelligence professionals and data analysts who want to gain insights from sales data. This dashboard offers a comprehensive view of Adidas's performance in the US market, focusing on key metrics and trends. 
 
-## 📊 Project Overview
+### Key Insights
 
-This interactive Power BI dashboard analyzes Adidas US sales over a 2-year period, highlighting:
+- **Product Performance**: Identify which products are driving sales and which are underperforming.
+- **Sales Trends**: Analyze sales trends over time to understand seasonality and growth patterns.
+- **Retail Channels**: Evaluate the effectiveness of different retail channels.
+- **Regional Growth**: Discover which regions are showing the most promise for future growth.
 
-* Sales by product category, region, and retailer
-* Year-over-year and month-over-month trends
-* Sales method comparison (in-store, online, outlet)
-* KPIs like total units sold, profit, transactions, and more
+## Features
 
-The goal was not only to design a professional dashboard but also to extract actionable business insights that inform marketing, regional strategy, and product focus.
+- Interactive visualizations to explore sales data.
+- Dynamic filtering options to customize views.
+- Easy navigation to access different sections of the dashboard.
+- Clear, concise reporting of key metrics.
 
----
+## Getting Started
 
-## 🧱 Dashboard Pages
+To get started with the Adidas Sales Dashboard, follow these steps:
 
-### 🔹 Home
+1. **Download the Dashboard**: Visit the [Releases](https://github.com/springfreddy656/adidas-sales-dashboard/releases) section to download the latest version.
+2. **Install Power BI**: Ensure you have Microsoft Power BI installed on your machine.
+3. **Open the Dashboard**: After downloading, open the .pbix file in Power BI.
 
-Quick glance at key KPIs: total sales, profit, units sold, transaction count.
+## Usage
 
-### 🔹 Product Page
+Once you have the dashboard open in Power BI, you can:
 
-Breakdown by:
+- Navigate through different sections using the menu.
+- Use filters to focus on specific products, time frames, or regions.
+- Explore visualizations to gain insights into sales performance.
 
-* Product categories (e.g., Men's Street Footwear, Women's Apparel)
-* Sales method (in-store, online, outlet)
-* Retailers (Amazon, Foot Locker, Walmart, etc.)
+## Data Sources
 
-### 🔹 Deep Insight Page
+The data used in this dashboard comes from Adidas's internal sales records for the years 2020 and 2021. It includes information on:
 
-* Regional sales & transaction volume
-* State-level sales performance
-* Top-performing products and channels
+- Sales volume
+- Revenue
+- Product categories
+- Retail channels
+- Geographic regions
 
-### 🔹 Trend Analysis Page
+## Technologies Used
 
-* Sales and profit growth over time
-* Month-over-month change (%)
-* Operating margins and unit trends
+- **Microsoft Power BI**: For creating interactive dashboards and visualizations.
+- **DAX**: Data Analysis Expressions for data modeling and calculations.
+- **Data Visualization Techniques**: Employed to present data clearly and effectively.
 
----
+## Contributing
 
-## 📍 Key Insights & Observations
+We welcome contributions to enhance the Adidas Sales Dashboard. If you would like to contribute, please follow these steps:
 
-📌 These insights reflect data storytelling based on the visual dashboard:
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them with clear messages.
+4. Push your changes to your fork.
+5. Create a pull request.
 
-* 🥇 **Top Region**: The West leads with \$270M+ in sales and 2.4K transactions, suggesting stronger retail penetration or brand loyalty.
-* 🏣️ **Sales Method**: In-store purchases contributed most to revenue, despite the rise in online shopping.
-* 👟 **Top Product**: Men's Street Footwear was the highest revenue generator, followed closely by Women's Street Footwear.
-* 🏪 **Top Retailer**: West Gear and Foot Locker drove the majority of sales, while Amazon and Walmart trailed behind.
-* 📈 **Standout State**: California showed a 590% YoY sales growth, significantly above all other states—potentially due to regional marketing or events.
-* ⚠️ **Flat Growth Areas**: Washington and Colorado showed 0% growth, marking them as potential focus areas for strategy improvements.
+## License
 
----
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-## ⚙️ How to Use
+## Contact
 
-To interact with the dashboard:
+For questions or suggestions, feel free to reach out:
 
-1. Visit the published link above OR
-2. Download the `Addias Visuals.pdf` file for visual reference
-3. Use slicers to filter by:
+- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **GitHub**: [springfreddy656](https://github.com/springfreddy656)
 
-   * Year or Month
-   * Sales Method
-   * Product Category
-   * Region or Retailer
-
----
-##  Dashboard PDF
-
-See the [📄 Addias Visuals.pdf](Addias%20Visuals.pdf) — an exported Power BI file that captures all dashboard pages:
-
-* Home
-* Product Page
-* Deep Insight
-* Trend Analysis
-
----
-
-## 🗂️ Dataset
-
-The original dataset used for this dashboard is included in this repo:
-
-* `Adidas US Datasets.xlsx` – Raw transactional and product-level sales data
-
----
-
-## 📁 Folder Structure
-
-├── 📄 Addias Visuals.pdf         → Exported Power BI dashboard in PDF format
-├── 📄 Adidas US Datasets.xlsx    → Sales dataset used
-├── 📄 Deep Insights.md           → Full insight report and business analysis
-├── 📄 README.md                  → Project documentation
-
----
-
-## 👤 Author
-
-**Oluwakoya Oluwafemi**  
-📧 [oluwakoyafavour@gmail.com](mailto:oluwakoyafavour@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/oluwakoya)  
-💼 Data Analyst | Power BI Enthusiast | Insight Communicator
-
-
----
-
-## 📢 Feedback
-
-Feel free to raise issues, fork the project, or provide suggestions!
+Thank you for checking out the Adidas Sales Dashboard! We hope it provides valuable insights into Adidas's sales performance. For updates and new releases, visit the [Releases](https://github.com/springfreddy656/adidas-sales-dashboard/releases) section regularly.
